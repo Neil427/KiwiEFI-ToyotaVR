@@ -1,4 +1,5 @@
 KiwiEFI Dual LM1815 Toyota VR Conditioner for 24+1 tooth distributor type sensors, works with both shared ground and separate isolated sensors.
+
 Also suitable for:
 - 12 tooth crank + 1 tooth sensors as used in the non-vvt 1UZFE
 - Mazda RX7 S4,5,6 sensors
