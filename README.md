@@ -8,5 +8,7 @@ Also suitable for:
 
 ![TOYOTA_VR_v1](https://github.com/Neil427/KiwiEFI-ToyotaVR/assets/67580691/6198988d-7bd4-459c-b521-f22a4d1509c5)
 
-Note: This LM1815 design is not a universal VR conditioner, the components are optimised for the pulse rate of the 24 / 1 tooth rates. 
+Note1: This LM1815 design is not a universal VR conditioner, the components are optimised for the pulse rate of the 24 / 1 tooth rates. 
 Other pulse rates will require changes to the input filtering, one shot, and peak detector components.
+
+Note2: V0.1 Gerbers are the original version V1.0 Gerbers have silkscreen update only.
